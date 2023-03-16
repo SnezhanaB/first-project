@@ -1,2 +1,5 @@
-public class Converter {
+public class Praktikum {
+  void main() {
+
+  }
 }
